@@ -39,3 +39,16 @@ I have experience with pixel perfect and adaptive HTML layouts, also I have seve
 * Russian (native)
 * Ukrainian (native)
 * English (I took English courses when I was at university and went to a tutor for a while. My level is close to A2. I can read technical literature, watch and listen in English, and speak a little.)
+
+## Code exemple
+```javascript
+    const reverseString = (string) => {
+    let newString = '';
+    
+    for(let i = 0; i <= string.length - 1; i++) {
+     newString = `${string[i]}${newString}`; 
+    } 
+    
+    return newString; 
+  };
+```
