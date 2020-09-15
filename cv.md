@@ -1,13 +1,13 @@
 # Ihor Stanovyi
 
-## Details
-![phone](https://i.ibb.co/TLhCHWd/iconmonstr-phone-3-12.png) (+38)067-981-80-54
+## Contact
 ![email](https://i.ibb.co/1qW2kZ7/iconmonstr-email-9-12.png) igor.stanevoj@gmail.com
+![phone](https://i.ibb.co/TLhCHWd/iconmonstr-phone-3-12.png) (+38)067-981-80-54
 ![linkedin](https://i.ibb.co/RvMPx41/iconmonstr-linkedin-3-12.png) [linkedin.com/in/ihor-stanovyi](https://linkedin.com/in/ihor-stanovyi)
 ![github](https://i.ibb.co/7gRhj71/iconmonstr-github-1-12.png) [github.com/Stanovyi](https://github.com/Stanovyi)
 
-## Profile
-Hardworking and enthusiastic developer with experience in developing responsive websites and small projects. Highly knowledge in HTML/CSS, JavaScript and working knowledge of Photoshop and Figma. I prefer learning new things all the time, it gives me the ability to learn quickly. It's important to learn fast and put technology into practice. My goal is to become a professional developer.
+## About me
+Hardworking and enthusiastic developer. Highly knowledge in HTML/CSS, JavaScript and working knowledge of Photoshop and Figma. I prefer learning new things all the time, it gives me the ability to learn quickly. It's important to learn fast and put technology into practice. My goal is to become a professional developer.
 
 ## Skills
 * HTML5/CSS3
