@@ -4,6 +4,7 @@
 ![email](https://i.ibb.co/1qW2kZ7/iconmonstr-email-9-12.png) igor.stanevoj@gmail.com
 ![phone](https://i.ibb.co/TLhCHWd/iconmonstr-phone-3-12.png) (+38)067-981-80-54
 ![linkedin](https://i.ibb.co/RvMPx41/iconmonstr-linkedin-3-12.png) [linkedin.com/in/ihor-stanovyi](https://linkedin.com/in/ihor-stanovyi)
+![facebook](https://i.ibb.co/G0wXjb2/iconmonstr-facebook-3-12.png) [facebook.com/Stanovyi](https://www.facebook.com/Stanovyi/)
 ![github](https://i.ibb.co/7gRhj71/iconmonstr-github-1-12.png) [github.com/Stanovyi](https://github.com/Stanovyi)
 
 ## About me
