@@ -1,0 +1,72 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+main {
+  display: flex;
+}
+
+.main-info {
+  width: 70vw;
+  padding: 20px;
+}
+
+.side-info {
+  position: relative;
+  width: 25vw;
+}
+
+.side-info h1 {
+  margin-top: 220px;
+  text-align: center;
+}
+
+.logo {
+  position: absolute;
+  top: 2%;
+  left: 12%;
+  border-radius: 100%;
+}
+
+h2 {
+  text-align: center;
+}
+
+li {
+  margin-bottom: 5px;
+  vertical-align: middle;
+  list-style: none;
+}
+
+img {
+  vertical-align: middle;
+}
+
+.contacts-list a {
+  text-decoration: none;
+  color: #000;
+}
+
+.contacts-list
+li:hover,
+a:hover {
+  color: #0075FF;
+}
+
+.education ul {
+  padding-left: 20px;
+  border-left: 1px solid #000;
+}
+
+.education-list li {
+  padding-bottom: 5px;
+}
+
+.code-example a {
+  text-decoration: none;
+}
