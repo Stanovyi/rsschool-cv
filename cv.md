@@ -31,7 +31,21 @@ developer who delivers high-quality, impactful products.
 * MongoDB
 
 ## Code example
-*Implementation of a binary search algorithm*
+*Reversed Strings Kata from **Codewars***
+```javascript
+const reverseString = (string) => {
+  const length = string.length;
+  let newString = '';
+
+  for(let i = 0; i < length; i++) {
+      newString = `${string[i]}${newString}`;
+  }
+
+  return newString;
+};
+```
+
+*Implementation of a **binary search algorithm***
 ```javascript
 function binary_search(arrayList, item) {
   let lowPosition = 0;
@@ -85,5 +99,5 @@ Graduation: 2019 – 2021
 Graduation: 2015 – 2019
 
 ## English
-English — B1+ (Intermediate)
+**English — B1+ (Intermediate)**
 I'm able to effectively communicate in English with a team or clients. Read or write tech documentation. Comfortable communicating with international team. Currently I'm improving spoken English visiting different speaking clubs
