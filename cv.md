@@ -73,3 +73,12 @@ A website of WebStudio company with responsive design,
 transform effects and modal windows.
 Role: Developer
 Individual project
+
+## Education
+* **Master's degree Computer Science**\
+*Open International University of Human Development 'Ukraine'*\
+Graduation: 2019 – 2021
+
+* **Bachelor degree Software engineering**\
+*Open International University of Human Development 'Ukraine'*\
+Graduation: 2015 – 2019
