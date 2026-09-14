@@ -53,3 +53,23 @@ function binary_search(arrayList, item) {
   return null;
 }
 ```
+
+## Experience
+[Portfolio Website](https://qboww.github.io/js-snow-white-n-8-devs/), [GitHub-repository](https://github.com/Stanovyi/js-snow-white-n-8-devs) (HTML, CSS, JS)
+The landing website is themed as a developer portfolio with
+many interactive visual features, forms, and adaptive
+designs.
+Role: Developer of projects section
+
+[Watchcharm](https://qboww.github.io/devghosts-watches-teamproject/), [GitHub-repository](https://github.com/Stanovyi/devghosts-watches-teamproject) (HTML, CSS, JS)
+Website landing was made for watch distribution and built
+for the distribution of watches. It utilizes modern
+JavaScript technologies to deliver a fast and efficient user
+experience.
+Role: Scrum-master, developer of sale section
+
+[WebStudio](https://stanovyi.github.io/webstudio/), [GitHub-repository](https://github.com/Stanovyi/webstudio) (HTML, CSS)
+A website of WebStudio company with responsive design,
+transform effects and modal windows.
+Role: Developer
+Individual project
