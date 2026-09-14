@@ -82,3 +82,7 @@ Graduation: 2019 – 2021
 * **Bachelor degree Software engineering**\
 *Open International University of Human Development 'Ukraine'*\
 Graduation: 2015 – 2019
+
+## English
+English — B1+ (Intermediate)
+I'm able to effectively communicate in English with a team or clients. Read or write tech documentation. Comfortable communicating with international team. Currently I'm improving spoken English visiting different speaking clubs
