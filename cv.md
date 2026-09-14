@@ -15,3 +15,16 @@ and adopt new methodologies to stay ahead while
 emphasizing the importance of soft skills for effective
 collaboration. I'm committed to becoming a professional
 developer who delivers high-quality, impactful products.
+
+## Skills
+* HTML5/CSS3/SASS
+* Responsive/Adaptive design
+* GIT
+* JavaScript
+* TypeScript
+* React
+* Redux
+* REST API
+* VITE
+* Node.js
+* MongoDB
