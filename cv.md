@@ -28,3 +28,28 @@ developer who delivers high-quality, impactful products.
 * VITE
 * Node.js
 * MongoDB
+
+## Code example
+*Implementation of a binary search algorithm*
+```javascript
+function binary_search(arrayList, item) {
+  let lowPosition = 0;
+  let highPosition = arrayList.length - 1;
+
+  while (lowPosition <= highPosition) {
+    let middlePosition = Math.floor((lowPosition + highPosition) / 2);
+    let guessItem = arrayList[middlePosition];
+    console.log("inside: ", middlePosition);
+
+    if (guessItem === item) {
+      return middlePosition;
+    } else if (guessItem < item) {
+      lowPosition = middlePosition + 1;
+    } else {
+      highPosition = middlePosition - 1;
+    }
+  }
+
+  return null;
+}
+```
