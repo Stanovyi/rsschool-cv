@@ -7,3 +7,11 @@ Email: ihor.stanovyi@gmail.com
 [Linkedin](https://linkedin.com/in/ihor-stanovyi)
 [Telegram](https://t.me/ihor_stanovyi)
 [GitHub](https://github.com/Stanovyi)
+
+## About Me
+Passionate full-stack developer with a solid foundation in
+front-end and back-end technologies. I continuously learn
+and adopt new methodologies to stay ahead while
+emphasizing the importance of soft skills for effective
+collaboration. I'm committed to becoming a professional
+developer who delivers high-quality, impactful products.
